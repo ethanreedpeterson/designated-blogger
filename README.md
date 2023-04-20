@@ -1,1 +1,3 @@
-# designated-bloggerA line I wrote on my local computer 
+# designated-blogger 
+
+This is a line from RStudio.
